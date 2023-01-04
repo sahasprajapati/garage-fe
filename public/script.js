@@ -546,9 +546,8 @@ var AppScript = function () {
   };
 };
 
-export default AppScript;
 
-export const AppLoader = function () {
+const AppLoader = function () {
   // Remove Loader
   //   var load_screen = document.getElementById('load_screen');
   //   document.body.removeChild(load_screen);

@@ -1,6 +1,5 @@
-@import url('/assets/css/dark/main.css');
-@import url('/assets/plugins/css/light/perfect-scrollbar/perfect-scrollbar-dark.css');
-@import url('/assets/plugins/src/waves/waves.min.css');
+@import url('../../../assets/css/light/main.css');
+@import url('../../../plugins/css/dark/perfect-scrollbar/perfect-scrollbar.css');
 @import url('./structure.css');
 
 /*
