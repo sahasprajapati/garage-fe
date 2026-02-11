@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^2.9.10",
-    "axios": "^1.2.2",
+    "axios": "^1.13.5",
     "clsx": "^1.2.1",
     "dotenv": "^16.0.3",
     "filepond-plugin-image-exif-orientation": "^1.0.11",
